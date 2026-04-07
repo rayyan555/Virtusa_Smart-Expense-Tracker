@@ -93,26 +93,26 @@ A smart tool that helps users:
 
 ### 📊 Dashboard View
 
-![Dashboard](images/Dashboard.png)
-![Dashboard2](images/Dashboard2.png)
+![Dashboard](Images/Dashboard.png)
+![Dashboard2](Images/Dashboard2.png)
 
 ### 🧾 Add Expense
 
-![Add Expense](images/AddExpense.png)
+![Add Expense](Images/AddExpense.png)
 
 ### 📋 View Expenses
 
-![View Expenses](images/ViewExpense.png)
+![View Expenses](Images/ViewExpense.png)
 
 ### 📈 Analysis & Insights
 
-![Analysis](images/Analysis.png)
-![Monthly Spending](images/MonthlySpending.png)
-![Pie Chart](images/PieChart.png)
+![Analysis](Images/Analysis.png)
+![Monthly Spending](Images/MonthlySpending.png)
+![Pie Chart](Images/PieChart.png)
 
 ### 💡 Key Insights
 
-![Key Insights](images/KeyInsights.png)
+![Key Insights](Images/KeyInsights.png)
 
 ---
 
