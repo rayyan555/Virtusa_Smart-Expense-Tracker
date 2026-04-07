@@ -124,7 +124,9 @@ A smart tool that helps users:
 ## 👨‍💻 Author
 
 Rayyan A
+
 KPR INSTITUTE OF ENGINEERING AND TECHNOLOGY
+
 BE.CSE / Honours And Specialization in AIML
 
 Email: rayyanibnrahman903@gmail.com
