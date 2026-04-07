@@ -87,6 +87,35 @@ A smart tool that helps users:
 * Identify areas to reduce spending
 
 ---
+---
+
+## 🖼️ Output Screenshots
+
+### 📊 Dashboard View
+
+![Dashboard](images/Dashboard.png)
+![Dashboard2](images/Dashboard2.png)
+
+### 🧾 Add Expense
+
+![Add Expense](images/AddExpense.png)
+
+### 📋 View Expenses
+
+![View Expenses](images/ViewExpense.png)
+
+### 📈 Analysis & Insights
+
+![Analysis](images/Analysis.png)
+![Monthly Spending](images/MonthlySpending.png)
+![Pie Chart](images/PieChart.png)
+
+### 💡 Key Insights
+
+![Key Insights](images/KeyInsights.png)
+
+---
+
 
 
 
@@ -95,5 +124,7 @@ A smart tool that helps users:
 ## 👨‍💻 Author
 
 Rayyan A
+KPR INSTITUTE OF ENGINEERING AND TECHNOLOGY
+BE.CSE / Honours And Specialization in AIML
 
 Email: rayyanibnrahman903@gmail.com
