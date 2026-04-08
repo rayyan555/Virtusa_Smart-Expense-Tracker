@@ -77,7 +77,7 @@ streamlit run app.py
 
 ---
 
-## 📊 Expected Outcome
+## 📊 Outcome
 
 A smart tool that helps users:
 
