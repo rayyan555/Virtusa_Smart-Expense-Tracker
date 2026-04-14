@@ -16,14 +16,14 @@ Many individuals struggle to track daily expenses and understand spending patter
 
 ##  Features
 
-* 📊 Interactive Dashboard with budget tracking
-* 🧾 Add and manage expenses easily
-* 📅 Monthly expense filtering
-* 📉 Category-wise analysis (Pie Chart)
-* 📈 Monthly spending trend visualization
-* ⚠️ Budget alerts (80% warning, exceeded alert)
-* 🏆 Highest spending category detection
-* 🗑️ Delete expenses functionality
+*  Interactive Dashboard with budget tracking
+*  Add and manage expenses easily
+*  Monthly expense filtering
+*  Category-wise analysis (Pie Chart)
+*  Monthly spending trend visualization
+*  Budget alerts (80% warning, exceeded alert)
+*  Highest spending category detection
+*  Delete expenses functionality
 
 ---
 
