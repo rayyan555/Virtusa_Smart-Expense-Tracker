@@ -1,12 +1,12 @@
-# 💰 Smart Expense Tracker with Insights
+#  Smart Expense Tracker with Insights
 
-## 📌 Problem Statement
+##  Problem Statement
 
 Many individuals struggle to track daily expenses and understand spending patterns. This project helps users record, categorize, and analyze their expenses effectively.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Record daily expenses (date, category, amount, description)
 * Categorize spending (Food, Travel, Bills, etc.)
@@ -14,7 +14,7 @@ Many individuals struggle to track daily expenses and understand spending patter
 
 ---
 
-## 🚀 Features
+##  Features
 
 * 📊 Interactive Dashboard with budget tracking
 * 🧾 Add and manage expenses easily
@@ -27,7 +27,7 @@ Many individuals struggle to track daily expenses and understand spending patter
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Python
 * Streamlit
@@ -37,7 +37,7 @@ Many individuals struggle to track daily expenses and understand spending patter
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 ├── app.py
@@ -49,27 +49,27 @@ Many individuals struggle to track daily expenses and understand spending patter
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
-### 1️⃣ Create Virtual Environment
+### 1️ Create Virtual Environment
 
 ```bash
 python -m venv venv
 ```
 
-### 2️⃣ Activate Environment
+### 2️ Activate Environment
 
 ```bash
 venv\Scripts\activate
 ```
 
-### 3️⃣ Install Dependencies
+### 3️ Install Dependencies
 
 ```bash
 pip install streamlit pandas matplotlib
 ```
 
-### 4️⃣ Run Application
+### 4️ Run Application
 
 ```bash
 streamlit run app.py
@@ -77,7 +77,7 @@ streamlit run app.py
 
 ---
 
-## 📊 Outcome
+##  Outcome
 
 A smart tool that helps users:
 
@@ -89,28 +89,28 @@ A smart tool that helps users:
 ---
 ---
 
-## 🖼️ Output Screenshots
+## Output Screenshots
 
-### 📊 Dashboard View
+###  Dashboard View
 
 ![Dashboard](Images/Dashboard.png)
 ![Dashboard2](Images/Dashboard2.png)
 
-### 🧾 Add Expense
+###  Add Expense
 
 ![Add Expense](Images/AddExpense.png)
 
-### 📋 View Expenses
+###  View Expenses
 
 ![View Expenses](Images/ViewExpense.png)
 
-### 📈 Analysis & Insights
+###  Analysis & Insights
 
 ![Analysis](Images/Analysis.png)
 ![Monthly Spending](Images/MonthlySpending.png)
 ![Pie Chart](Images/PieChart.png)
 
-### 💡 Key Insights
+###  Key Insights
 
 ![Key Insights](Images/KeyInsights.png)
 
@@ -121,7 +121,7 @@ A smart tool that helps users:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Rayyan A
 
