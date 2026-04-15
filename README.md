@@ -107,7 +107,7 @@ A smart tool that helps users:
 ###  Analysis & Insights
 
 ![Analysis](Images/Analysis.png)
-![Monthly Spending](Images/MonthlySpending.png)
+![Monthly Spending](Images/MontlySpending.png)
 ![Pie Chart](Images/PieChart.png)
 
 ###  Key Insights
